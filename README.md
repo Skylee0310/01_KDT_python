@@ -1,5 +1,3 @@
-# KDT-python-mini-project
-
 # 샌드위치 가게 키오스크 기능 파이썬 함수로 구현하기
 
 
